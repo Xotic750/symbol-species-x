@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-15T17:40:00.870Z",
+  "date": "2019-08-20T08:52:33.756Z",
   "describe": "",
   "description": "System Symbol.species (real or fake)",
   "file": "symbol-species-x.js",
