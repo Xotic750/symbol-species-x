@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-28T15:02:48.728Z",
+  "date": "2019-08-28T16:56:13.790Z",
   "describe": "",
   "description": "System Symbol.species (real or fake)",
   "file": "symbol-species-x.js",
   "hash": "e682fe52d9a7e7799b7e",
   "license": "MIT",
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
